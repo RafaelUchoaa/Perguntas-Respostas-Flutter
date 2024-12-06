@@ -1,16 +1,36 @@
-# projeto_perguntas
+<h1 align="center">Projeto Flutter - Questionário</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como Usar</a>
+</p>
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi feito usando:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Para o desenvolvimento do app.
+- **Dart**: Linguagem usada no Flutter.
+- **Git e GitHub**: Para controle de versão.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Sobre o Projeto
+
+Esse é um projeto simples de perguntas e respostas. O usuário responde a algumas perguntas com 4 opções e, ao final, o app calcula a pontuação com base nas respostas.
+
+## 🎯 Objetivo
+
+Esse projeto serve como aprendizado e prática com o **Flutter**. Ele ajuda a entender como:
+
+- Criar perguntas e respostas.
+- Armazenar e exibir informações de forma dinâmica.
+- Calcular uma pontuação com base nas respostas.
+
+## 🔧 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/RafaelUchoaa/Perguntas-Respostas-Flutter.git
